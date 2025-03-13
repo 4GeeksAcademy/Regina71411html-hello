@@ -1,0 +1,53 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Logo de Instagram */
+.instagram-logo {
+    width: 40px; /* Tamaño reducido para el logo */
+    height: auto;
+}
+
+/* Estilo para el texto de "Instagram" */
+.navbar-brand span {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* Botón "Create New Post" */
+.create-post-btn {
+    font-size: 14px;
+    padding: 8px 15px;
+    border-radius: 30px;
+}
+
+/* Botón de "Settings" */
+.settings-btn {
+    font-size: 14px;
+    padding: 8px 15px;
+    border-radius: 30px;
+}
+
+/* Estilo para el menú desplegable */
+.dropdown-menu {
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Opciones del menú desplegable */
+.dropdown-item {
+    font-size: 14px;
+}
+
+/* Estilo para las opciones deshabilitadas */
+.text-muted {
+    color: #6c757d !important;
+}
+
+/* Espaciado entre los elementos */
+.navbar {
+    padding: 15px;
+}
+
